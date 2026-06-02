@@ -1,16 +1,66 @@
-## Hi there 👋
+# Hi, I'm Kadari Tharani 👋
 
-<!--
-**TharaniKadari/tharanikadari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### AI/ML Engineering Student | Python | Machine Learning | Data Science
 
-Here are some ideas to get you started:
+📍 Warangal, Telangana, India
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a Final Year B.Tech student specializing in Artificial Intelligence & Machine Learning. I enjoy building data-driven applications, machine learning solutions, and modern web applications that solve real-world problems.
+
+## 🚀 Current Focus
+
+* Machine Learning & Data Science
+* Deep Learning
+* Full-Stack Development
+* DevOps & Cloud Fundamentals
+* Open Source Learning
+
+## 🛠️ Tech Stack
+
+### Languages
+
+* Python
+* JavaScript
+* SQL
+* C
+
+### AI & Data Science
+
+* Machine Learning
+* Pandas
+* NumPy
+* Scikit-Learn
+
+### Web Development
+
+* HTML
+* CSS
+* React.js
+* JavaScript
+
+### DevOps & Tools
+
+* Git
+* GitHub
+* Docker
+* Linux
+
+## 📌 Featured Projects
+
+### Network Intrusion Detection System
+
+Machine learning-based intrusion detection system for identifying malicious network traffic.
+
+### AgroConnect
+
+Digital agriculture platform aimed at improving farmer accessibility and agricultural support.
+
+### Portfolio Website
+
+Personal portfolio showcasing projects, skills, and achievements.
+
+## 📫 Connect With Me
+
+* LinkedIn: https://www.linkedin.com/in/tharanikadari/
+* Email: tharanikadari13@gmail.com
+
+⭐ Passionate about learning, building, and creating impactful technology.
